@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on discord bot.
 
-🌱 I’m currently learning Python, C
+🌱 I’m currently learning Python, C, C++.
 
 💬 Ask me about anything [here](http://join.shfd27.p-e.kr)
 
