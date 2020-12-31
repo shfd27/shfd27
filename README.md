@@ -1,8 +1,9 @@
 ### Hi there, I'm [Kihyeon Kim](https://github.com/shfd27), want to be a programmer.👋
 <!-- <h3>Hi there, I'm <a href="https://github.com/shfd27" style="color:black">Kihyeon Kim</a>👋</h3> --><!-- changing color is no work -->
 
-<a href="http://join.shfd27.p-e.kr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discord-512.webp/512px-Discord-512.webp.png" height="35px" width="35px"></a>
-<a href="https://shfd27.tistory.com/"><img src="https://tistory1.daumcdn.net/tistory/user/1/profile/profileImg?v=1571898184" height="35px" width="35px"></a>
+<a href="https://shfd27.github.io"><img src="./image/github.png" height="35px" width="35px"></a>
+<a href="http://join.shfd27.p-e.kr"><img src="./image/discord.png" height="35px" width="35px"></a>
+
 
 
 🔭 I’m currently working on discord bot.
